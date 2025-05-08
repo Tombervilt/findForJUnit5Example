@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selenide.*;
 
-public class FindJUnit5CodeExample {
+public class FindJUnit5CodeExampleTest {
     @BeforeAll
     static void beforeAll() {
         Configuration.baseUrl = "https://github.com";
