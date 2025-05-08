@@ -30,7 +30,5 @@ public class FindJUnit5CodeExampleTest {
                          $("#second").should(visible).click();
                          }
                          }"""));
-
-        sleep(3000);
     }
 }
